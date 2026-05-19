@@ -1,3 +1,19 @@
+Phương pháp 1: Tính theo lượng lao động hao phí:
+CNKT ct = Tổng (ti xqi) / (Tn x Kn)
+Trong đó:
+CNKT ct: Số công nhân kỹ thuật cần thiết để hoàn thành nhiệm vụ sản xuất kỳ kế hoạch.
+ti: Lượng lao động hao phí để sản xuất ra một sản phẩm loại $i$.
+qi: Số lượng sản phẩm loại $i$ kỳ kế hoạch.
+Tổng (ti x qi): Toàn bộ lượng lao động hao phí để hoàn thành nhiệm vụ sản xuất.
+Tn: Quỹ thời gian làm việc bình quân của 1 công nhân kỹ thuật kỳ kế hoạch.
+Phương pháp 3: Phương pháp chỉ số:
+CNKT ct= (Shc x Im x Ik)/Iw
+Trong đó:
+Shc: Số công nhân kỹ thuật hiện có của nghề đó.
+Im: Chỉ số máy móc thiết bị năm kế hoạch.
+Ik: Chỉ số ca làm việc của thiết bị năm kế hoạch.
+Iw: Chỉ số năng suất lao động (NSLĐ) của công nhân kỹ thuật năm kế hoạch
+
 GDP 
 2018: khoảng 310,1 tỷ USD (GDP danh nghĩa), tăng trưởng 7,08%.
 2022: khoảng 408,8 tỷ USD, tăng trưởng 8,02%.
