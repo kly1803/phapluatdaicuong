@@ -830,3 +830,129 @@ C. Tình hình phát triển kinh tế xã hội
 D. Cả B và C
 B
 
+DẠNG 1: BÀI TẬP PHÂN TÍCH THANG LƯƠNG, HỆ SỐ LƯƠNG VÀ TÌM LƯƠNG TỐI THIỂU (BÀI 1 TRONG TÀI LIỆU)
+1. Khái niệm và Nguyên lý:
+
+Thang lương bao gồm các bậc lương và hệ số lương tương ứng.
+
+Hệ số tăng tuyệt đối giữa bậc (i) và bậc (i-1) là hiệu số giữa hai hệ số lương: delta K = K_i - K_(i-1).
+
+Tiền lương tối thiểu của doanh nghiệp (Lmin): Là mức tiền lương tháng tính cho người lao động làm công việc giản đơn nhất trong điều kiện lao động bình thường (tương ứng với bậc 1, hệ số lương K1 = 1). Do đó, nếu đề bài cho hệ số lương bậc 1 lớn hơn 1 (ví dụ K1 = 2,35), ta phải hiểu doanh nghiệp đang tính lương dựa trên một mức lương tối thiểu nền tảng thấp hơn.
+
+2. Hệ thống công thức tính toán:
+
+Công thức tính tiền lương tháng của bậc i (L_i):
+L_i = Lmin * K_i
+
+Công thức tìm mức lương tối thiểu (Lmin) khi biết lương bậc 1 (L1) và hệ số K1:
+Lmin = L1 / K1
+
+Công thức tính hệ số lương của các bậc tiếp theo khi biết hệ số tăng tuyệt đối:
+K2 = K1 + Hệ số tăng tuyệt đối bậc 2
+K3 = K2 + Hệ số tăng tuyệt đối bậc 3
+K4 = K3 + Hệ số tăng tuyệt đối bậc 4
+
+DẠNG 2: HÌNH THỨC TRẢ LƯƠNG THEO THỜI GIAN CÓ THƯỞNG VÀ ĐƠN GIẢN
+1. Tiền lương thời gian đơn giản (Ltg):
+
+Ltg = MLi * Ttt
+
+Trong đó:
+
+MLi: Mức lương cấp bậc hoặc chức vụ tính theo đơn vị thời gian (giờ, ngày, tháng).
+
+Ttt: Thời gian làm việc thực tế tương ứng của người lao động.
+
+Công thức tính mức lương đơn vị thời gian (MLi) từ lương tối thiểu:
+MLi = [Lmin * (Ki + Phụ cấp)] / Tcd
+(Với Tcd là thời gian làm việc tiêu chuẩn theo chế độ quy định, ví dụ 26 ngày/tháng hoặc 208 giờ/tháng).
+
+2. Tiền lương thời gian có thưởng (Lth):
+
+Lth = Ltg + Tiền thưởng
+
+DẠNG 3: HÌNH THỨC TRẢ LƯƠNG THEO SẢN PHẨM CÁ NHÂN (TRỰC TIẾP, CÓ THƯỞNG, LŨY TIẾN)
+1. Bước bắt buộc: Tính đơn giá sản phẩm (ĐG)
+Tùy thuộc vào dữ liệu đề bài cho "Mức sản lượng" hay "Mức thời gian" để áp dụng:
+
+Nếu cho Mức sản lượng (Qdm):
+ĐG = MLi / Qdm
+(Trong đó MLi là mức lương cấp bậc công việc tính theo ngày hoặc giờ; Qdm là số lượng sản phẩm quy định phải làm ra trong ngày hoặc giờ đó).
+
+Nếu cho Mức thời gian (tdm):
+ĐG = MLi * tdm
+(Trong đó MLi là mức lương cấp bậc tính theo phút hoặc giờ; tdm là thời gian định mức để làm ra một sản phẩm).
+
+2. Lương sản phẩm trực tiếp cá nhân (Lsp):
+
+Lsp = ĐG * Qtt
+(Với Qtt là sản lượng sản phẩm thực tế người lao động làm ra đạt chuẩn chất lượng).
+
+3. Lương sản phẩm có thưởng (Lspth):
+
+Lspth = Lsp * [1 + (H * m / 100)]
+
+Trong đó:
+
+H: Tỷ lệ % tiền thưởng được hưởng cho mỗi 1% vượt mức.
+
+m: Tỷ lệ % vượt định mức sản lượng của công nhân. Công thức tính m = [(Qtt - Qdm) / Qdm] * 100%.
+
+4. Lương sản phẩm lũy tiến (Llt):
+
+Llt = (ĐG * Qdm) + [ĐGlt * (Qtt - Qdm)]
+
+Trong đó: ĐGlt là đơn giá lũy tiến áp dụng cho phần sản phẩm vượt định mức (thường bằng đơn giá cơ bản nhân với hệ số điều chỉnh tăng theo quy định của đề bài).
+
+DẠNG 4: HÌNH THỨC TRẢ LƯƠNG SẢN PHẨM GIÁN TIẾP (CÔNG NHÂN PHỤC VỤ)
+1. Tính đơn giá sản phẩm gián tiếp (ĐGgt):
+
+ĐGgt = MLpv / (Qchinh * n)
+
+Trong đó:
+
+MLpv: Mức lương cấp bậc của công nhân phục vụ.
+
+Qchinh: Mức sản lượng định mức của một công nhân chính.
+
+n: Số lượng công nhân chính mà công nhân phục vụ này có trách nhiệm hỗ trợ.
+
+2. Lương sản phẩm gián tiếp thực lĩnh (Lspgt):
+
+Lspgt = ĐGgt * Qtt_chinh
+(Với Qtt_chinh là tổng số sản phẩm thực tế mà tất cả các công nhân chính phụ trách làm ra).
+
+DẠNG 5: HÌNH THỨC TRẢ LƯƠNG TẬP THỂ THEO SẢN PHẨM (BÀI TẬP LỚN CHƯƠNG 6)
+Các bước tính tổng lương chung của tổ:
+
+Bước 1: Tính đơn giá sản phẩm tập thể (ĐGtt)
+ĐGtt = Tổng mức lương cấp bậc công việc của các công đoạn / Mức sản lượng tập thể quy định
+
+Bước 2: Tính tổng tiền lương thực lĩnh của cả tổ (Lto)
+Lto = ĐGtt * Tổng số sản phẩm thực tế tổ làm được
+
+Sau khi có tổng lương tổ (Lto), chọn 1 trong 2 phương pháp sau để chia lương cho từng người:
+
+Phương pháp A: Chia theo Hệ số điều chỉnh (Kđc)
+
+Bước 3: Tính tiền lương cấp bậc định mức của từng cá nhân theo thời gian làm việc thực tế:
+Lcb_i = (MLnen * Ki * Ttt_i) / Tcd
+(Sau đó tính tổng tiền lương cấp bậc của cả tổ bằng cách cộng tất cả Lcb_i lại).
+
+Bước 4: Tính hệ số điều chỉnh tiền lương (Kđc):
+Kđc = Lto / Tổng lương cấp bậc cả tổ
+
+Bước 5: Tính lương thực lĩnh của cá nhân (i):
+Ltl_i = Lcb_i * Kđc
+
+Phương pháp B: Chia theo Giờ (hoặc Ngày) hệ số quy đổi
+
+Bước 3: Tính số giờ làm việc quy đổi của từng cá nhân (Tqd_i):
+Tqd_i = Ttt_i * Ki
+(Sau đó cộng lại để có Tổng số giờ làm việc quy đổi của toàn tổ).
+
+Bước 4: Tính số tiền lương tính cho một giờ quy đổi (L1h_qd):
+L1h_qd = Lto / Tổng số giờ quy đổi toàn tổ
+
+Bước 5: Tính lương thực lĩnh của cá nhân (i):
+Ltl_i = Tqd_i * L1h_qd
